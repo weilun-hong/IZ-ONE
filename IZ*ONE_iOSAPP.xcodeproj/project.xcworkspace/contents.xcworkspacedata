@@ -2,6 +2,33 @@
 <Workspace
    version = "1.0">
    <FileRef
+      location = "group:/Users/weilun/Desktop/IZ*ONE/IZ*ONE_iOSAPP/YOU &amp; I 2.mp3">
+   </FileRef>
+   <FileRef
+      location = "group:/Users/weilun/Desktop/IZ*ONE/IZ*ONE_iOSAPP/YOU &amp; I.mp3">
+   </FileRef>
+   <FileRef
+      location = "group:/Users/weilun/Desktop/IZ*ONE/IZ*ONE_iOSAPP/youtube.png">
+   </FileRef>
+   <FileRef
+      location = "group:/Users/weilun/Desktop/IZ*ONE/IZ*ONE_iOSAPP/YuJin.jpg">
+   </FileRef>
+   <FileRef
+      location = "group:/Users/weilun/Desktop/IZ*ONE/IZ*ONE_iOSAPP/YuRi.jpg">
+   </FileRef>
+   <FileRef
+      location = "group:/Users/weilun/Desktop/IZ*ONE/IZ*ONE_iOSAPP/&#x110b;&#x1165;&#x11ab;&#x110c;&#x1166;&#x11ab;&#x1100;&#x1161; &#x110b;&#x116e;&#x1105;&#x1175;&#x110b;&#x1174; &#x1107;&#x1161;&#x11b7;&#x1103;&#x1169; &#x110c;&#x1175;&#x1102;&#x1161;&#x1100;&#x1161;&#x1100;&#x1166;&#x11bb;&#x110c;&#x116d; (SOMEDAY) 2.mp3">
+   </FileRef>
+   <FileRef
+      location = "group:/Users/weilun/Desktop/IZ*ONE/IZ*ONE_iOSAPP/&#x110b;&#x1165;&#x11ab;&#x110c;&#x1166;&#x11ab;&#x1100;&#x1161; &#x110b;&#x116e;&#x1105;&#x1175;&#x110b;&#x1174; &#x1107;&#x1161;&#x11b7;&#x1103;&#x1169; &#x110c;&#x1175;&#x1102;&#x1161;&#x1100;&#x1161;&#x1100;&#x1166;&#x11bb;&#x110c;&#x116d; (SOMEDAY).mp3">
+   </FileRef>
+   <FileRef
+      location = "group:/Users/weilun/Desktop/IZ*ONE/IZ*ONE_iOSAPP/&#x110b;&#x116e;&#x110b;&#x1167;&#x11ab;&#x110b;&#x1175; &#x110b;&#x1161;&#x1102;&#x1175;&#x110b;&#x1163; (DESTINY) 2.mp3">
+   </FileRef>
+   <FileRef
+      location = "group:/Users/weilun/Desktop/IZ*ONE/IZ*ONE_iOSAPP/&#x110b;&#x116e;&#x110b;&#x1167;&#x11ab;&#x110b;&#x1175; &#x110b;&#x1161;&#x1102;&#x1175;&#x110b;&#x1163; (DESTINY).mp3">
+   </FileRef>
+   <FileRef
       location = "self:">
    </FileRef>
 </Workspace>

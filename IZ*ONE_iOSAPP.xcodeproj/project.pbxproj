@@ -7,19 +7,52 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		687C16942737088900587F19 /* EYES.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 687C16892737088900587F19 /* EYES.mp3 */; };
+		687C16952737088900587F19 /* 언젠가 우리의 밤도 지나가겠죠 (SOMEDAY) 2.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 687C168A2737088900587F19 /* 언젠가 우리의 밤도 지나가겠죠 (SOMEDAY) 2.mp3 */; };
+		687C16962737088900587F19 /* 우연이 아니야 (DESTINY) 2.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 687C168B2737088900587F19 /* 우연이 아니야 (DESTINY) 2.mp3 */; };
+		687C16972737088900587F19 /* YOU & I.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 687C168C2737088900587F19 /* YOU & I.mp3 */; };
+		687C16982737088900587F19 /* PINK BLUSHER.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 687C168D2737088900587F19 /* PINK BLUSHER.mp3 */; };
+		687C16992737088900587F19 /* SO CURIOUS.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 687C168E2737088900587F19 /* SO CURIOUS.mp3 */; };
+		687C169A2737088900587F19 /* AYAYAYA.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 687C168F2737088900587F19 /* AYAYAYA.mp3 */; };
+		687C169B2737088900587F19 /* DREAMLIKE.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 687C16902737088900587F19 /* DREAMLIKE.mp3 */; };
+		687C169C2737088900587F19 /* OPEN YOUR EYES.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 687C16912737088900587F19 /* OPEN YOUR EYES.mp3 */; };
+		687C169D2737088900587F19 /* SPACESHIP.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 687C16922737088900587F19 /* SPACESHIP.mp3 */; };
+		687C169E2737088900587F19 /* DAYDREAM.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 687C16932737088900587F19 /* DAYDREAM.mp3 */; };
 		68DDB162272E97140053602E /* IZ_ONE_iOSAPPApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 68DDB161272E97140053602E /* IZ_ONE_iOSAPPApp.swift */; };
 		68DDB164272E97140053602E /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 68DDB163272E97140053602E /* ContentView.swift */; };
 		68DDB166272E97140053602E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 68DDB165272E97140053602E /* Assets.xcassets */; };
 		68DDB169272E97140053602E /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 68DDB168272E97140053602E /* Preview Assets.xcassets */; };
+		68DDB171272E9D580053602E /* mainView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 68DDB170272E9D580053602E /* mainView.swift */; };
+		68DDB175272E9D8F0053602E /* musicView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 68DDB174272E9D8F0053602E /* musicView.swift */; };
+		68DDB177272E9D9F0053602E /* moreView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 68DDB176272E9D9F0053602E /* moreView.swift */; };
+		68DDB190273182270053602E /* dataFile.swift in Sources */ = {isa = PBXBuildFile; fileRef = 68DDB18F273182270053602E /* dataFile.swift */; };
+		68DDB1A527355C1F0053602E /* MemberView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 68DDB1A427355C1F0053602E /* MemberView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		687C16892737088900587F19 /* EYES.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = EYES.mp3; sourceTree = "<group>"; };
+		687C168A2737088900587F19 /* 언젠가 우리의 밤도 지나가겠죠 (SOMEDAY) 2.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "언젠가 우리의 밤도 지나가겠죠 (SOMEDAY) 2.mp3"; sourceTree = "<group>"; };
+		687C168B2737088900587F19 /* 우연이 아니야 (DESTINY) 2.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "우연이 아니야 (DESTINY) 2.mp3"; sourceTree = "<group>"; };
+		687C168C2737088900587F19 /* YOU & I.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "YOU & I.mp3"; sourceTree = "<group>"; };
+		687C168D2737088900587F19 /* PINK BLUSHER.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "PINK BLUSHER.mp3"; sourceTree = "<group>"; };
+		687C168E2737088900587F19 /* SO CURIOUS.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "SO CURIOUS.mp3"; sourceTree = "<group>"; };
+		687C168F2737088900587F19 /* AYAYAYA.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = AYAYAYA.mp3; sourceTree = "<group>"; };
+		687C16902737088900587F19 /* DREAMLIKE.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = DREAMLIKE.mp3; sourceTree = "<group>"; };
+		687C16912737088900587F19 /* OPEN YOUR EYES.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "OPEN YOUR EYES.mp3"; sourceTree = "<group>"; };
+		687C16922737088900587F19 /* SPACESHIP.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = SPACESHIP.mp3; sourceTree = "<group>"; };
+		687C16932737088900587F19 /* DAYDREAM.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = DAYDREAM.mp3; sourceTree = "<group>"; };
 		68DDB15E272E97140053602E /* IZ*ONE_iOSAPP.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "IZ*ONE_iOSAPP.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		68DDB161272E97140053602E /* IZ_ONE_iOSAPPApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IZ_ONE_iOSAPPApp.swift; sourceTree = "<group>"; };
 		68DDB163272E97140053602E /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		68DDB165272E97140053602E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		68DDB168272E97140053602E /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		68DDB16A272E97140053602E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		68DDB170272E9D580053602E /* mainView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = mainView.swift; sourceTree = "<group>"; };
+		68DDB174272E9D8F0053602E /* musicView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = musicView.swift; sourceTree = "<group>"; };
+		68DDB176272E9D9F0053602E /* moreView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = moreView.swift; sourceTree = "<group>"; };
+		68DDB18A272F022B0053602E /* IZ*ONE_iOSAPP.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = "IZ*ONE_iOSAPP.entitlements"; sourceTree = "<group>"; };
+		68DDB18F273182270053602E /* dataFile.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = dataFile.swift; sourceTree = "<group>"; };
+		68DDB1A427355C1F0053602E /* MemberView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MemberView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -33,6 +66,24 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		687C16882737088900587F19 /* music */ = {
+			isa = PBXGroup;
+			children = (
+				687C16892737088900587F19 /* EYES.mp3 */,
+				687C168A2737088900587F19 /* 언젠가 우리의 밤도 지나가겠죠 (SOMEDAY) 2.mp3 */,
+				687C168B2737088900587F19 /* 우연이 아니야 (DESTINY) 2.mp3 */,
+				687C168C2737088900587F19 /* YOU & I.mp3 */,
+				687C168D2737088900587F19 /* PINK BLUSHER.mp3 */,
+				687C168E2737088900587F19 /* SO CURIOUS.mp3 */,
+				687C168F2737088900587F19 /* AYAYAYA.mp3 */,
+				687C16902737088900587F19 /* DREAMLIKE.mp3 */,
+				687C16912737088900587F19 /* OPEN YOUR EYES.mp3 */,
+				687C16922737088900587F19 /* SPACESHIP.mp3 */,
+				687C16932737088900587F19 /* DAYDREAM.mp3 */,
+			);
+			path = music;
+			sourceTree = "<group>";
+		};
 		68DDB155272E97140053602E = {
 			isa = PBXGroup;
 			children = (
@@ -52,8 +103,15 @@
 		68DDB160272E97140053602E /* IZ*ONE_iOSAPP */ = {
 			isa = PBXGroup;
 			children = (
+				68DDB18A272F022B0053602E /* IZ*ONE_iOSAPP.entitlements */,
 				68DDB161272E97140053602E /* IZ_ONE_iOSAPPApp.swift */,
+				68DDB1A427355C1F0053602E /* MemberView.swift */,
 				68DDB163272E97140053602E /* ContentView.swift */,
+				68DDB174272E9D8F0053602E /* musicView.swift */,
+				68DDB176272E9D9F0053602E /* moreView.swift */,
+				687C16882737088900587F19 /* music */,
+				68DDB170272E9D580053602E /* mainView.swift */,
+				68DDB18F273182270053602E /* dataFile.swift */,
 				68DDB165272E97140053602E /* Assets.xcassets */,
 				68DDB16A272E97140053602E /* Info.plist */,
 				68DDB167272E97140053602E /* Preview Content */,
@@ -126,6 +184,17 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				687C169E2737088900587F19 /* DAYDREAM.mp3 in Resources */,
+				687C16992737088900587F19 /* SO CURIOUS.mp3 in Resources */,
+				687C169B2737088900587F19 /* DREAMLIKE.mp3 in Resources */,
+				687C16942737088900587F19 /* EYES.mp3 in Resources */,
+				687C169D2737088900587F19 /* SPACESHIP.mp3 in Resources */,
+				687C16982737088900587F19 /* PINK BLUSHER.mp3 in Resources */,
+				687C16952737088900587F19 /* 언젠가 우리의 밤도 지나가겠죠 (SOMEDAY) 2.mp3 in Resources */,
+				687C16962737088900587F19 /* 우연이 아니야 (DESTINY) 2.mp3 in Resources */,
+				687C16972737088900587F19 /* YOU & I.mp3 in Resources */,
+				687C169A2737088900587F19 /* AYAYAYA.mp3 in Resources */,
+				687C169C2737088900587F19 /* OPEN YOUR EYES.mp3 in Resources */,
 				68DDB169272E97140053602E /* Preview Assets.xcassets in Resources */,
 				68DDB166272E97140053602E /* Assets.xcassets in Resources */,
 			);
@@ -138,7 +207,12 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				68DDB190273182270053602E /* dataFile.swift in Sources */,
+				68DDB175272E9D8F0053602E /* musicView.swift in Sources */,
+				68DDB1A527355C1F0053602E /* MemberView.swift in Sources */,
+				68DDB171272E9D580053602E /* mainView.swift in Sources */,
 				68DDB164272E97140053602E /* ContentView.swift in Sources */,
+				68DDB177272E9D9F0053602E /* moreView.swift in Sources */,
 				68DDB162272E97140053602E /* IZ_ONE_iOSAPPApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -265,19 +339,20 @@
 		68DDB16E272E97140053602E /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_ENTITLEMENTS = "IZ*ONE_iOSAPP/IZ*ONE_iOSAPP.entitlements";
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_ASSET_PATHS = "\"IZ*ONE_iOSAPP/Preview Content\"";
 				ENABLE_PREVIEWS = YES;
 				INFOPLIST_FILE = "IZ*ONE_iOSAPP/Info.plist";
-				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 14.1;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = "---.IZ-ONE-iOSAPP";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SUPPORTS_MACCATALYST = NO;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
@@ -286,19 +361,20 @@
 		68DDB16F272E97140053602E /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_ENTITLEMENTS = "IZ*ONE_iOSAPP/IZ*ONE_iOSAPP.entitlements";
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_ASSET_PATHS = "\"IZ*ONE_iOSAPP/Preview Content\"";
 				ENABLE_PREVIEWS = YES;
 				INFOPLIST_FILE = "IZ*ONE_iOSAPP/Info.plist";
-				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 14.1;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = "---.IZ-ONE-iOSAPP";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SUPPORTS_MACCATALYST = NO;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
